@@ -3,7 +3,8 @@ This project uses ResNet50, a pretrained CNN model for image classification, to 
 
 ## Dataset Used:
 The dataset used for this project is:
-[Face expression recognition dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
+[Face expression recognition dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset).
+
 There are 7 different kind of emotions in the dataset.
 
 ## Technologies used:
