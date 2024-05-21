@@ -11,4 +11,4 @@ The dataset used for this project is:
 - ResNet50
 
 ## Usage Instructions:
-To use the trained model on the dataset, extract the `model.zip/resnet_model.zip/resnet.pth` and then adjust the path in the notebook for the model and use it to predict the labels.
+To use the trained model on the dataset, extract the `model.zip/model/resnet_model.zip/resnet.pth` and then adjust the path in the notebook for the model and use it to predict the labels.
