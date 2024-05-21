@@ -9,3 +9,6 @@ The dataset used for this project is:
 - tensorflow
 - torch
 - ResNet50
+
+## Usage Instructions:
+TO use the trained model on the dataset, extract the `model.zip/resnet_model.zip` and then adjust the path in the notebook for the model and use it to predict the labels.
