@@ -10,6 +10,7 @@ There are 7 different kind of emotions in the dataset.
 ## Technologies used:
 - tensorflow
 - torch
+- keras
 - ResNet50
 
 ## Usage Instructions:
